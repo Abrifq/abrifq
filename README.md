@@ -1,16 +1,48 @@
-# Abrifq's Repository Template
+# Hello! / Selam!
 
-Hot take but tabs DO belong in markdown files. This template makes sure you use tabs in markdown files and markdownlint doesn't complain about using hard (real) tabs.
+[I'm Abrifq. :us:](#who-am-i) / [Adım Abrifq. :tr:](#kim-yahu)
 
-Use this repository as a template by pressing the "Use this template" or by using `gh repo create --template=Abrifq/repository-template --source=<folder>` when creating a new git repo.
+## Who am I?
 
-Batteries not included (a.k.a. install markdownlint to your globals/extensions yourself.)
+A part self-taught and part college-taught coder in the body of [Obelix](https://en.wikipedia.org/wiki/Obelix). :slightly_smiling_face:
 
-Also,
+### What I work on?
 
-## Remember to change the Readme.md and LICENSE files after importing
-===
+I got a day job and in my free time I work on my projects. Also, I sometimes push bug-fixes to [vscode][vscode] or help fix random projects' documentations when I find a something that irritates me. :3
 
-The license is Unlicense, which means you do not have to provide a copy or keep using the same license as the template. Feel free to remove it, use your own, use the template to make private software or whatever else you may like.
+I'm currently working on 2 projects that will help me manage a [github kanban board][what-is-github-project] more easily.
 
-Have fun writing markdown documents, because this will save you from weird markdown quirks. (bugs/implementations that vary from renderer to renderer)
+After I make a MVP that's good enough for me from those projects, I will [move my past project notes][move-notes] to [my kanban board: "Side Project Backlog"][my-github-project].
+
+You can check what I do from there after I finish those.
+
+#### Contact? Contact!
+
+Well, this name is unique for a reason. Search this name where you usually hangout. If I'm there, I probably am talking about cats or projects. Use that to determine if that account is mine or not. :3
+
+---
+
+## Kim yahu?
+
+Biraz alaylı biraz mektepli, [Oburiks](https://tr.wikipedia.org/wiki/Hopdediks)'in yazılımcıda vücut bulmuş haliyim. :slightly_smiling_face:
+
+### Ne yapar, ne eder?
+
+Bir yerde çalışıyorum ve boş zamanlarımda kendi projelerimde çalışıyorum. Ayrıca, sinirimi bozduğu zaman [vscode][vscode]'a bugfix gönderiyor veya rastgele projelerde denk geldiğim belgeleme hatalarını düzeltiyorum. :3
+
+Şu anda, bir [github kanban projesi][what-is-github-project]ni yönetmemi kolaylaştırıcak 2 proje üzerinde çalışıyorum.
+
+İdare edecek bir sürüm yaptığımda daha önce not aldığım projelerin [notlarını kanban'a geçirip][move-notes] oradan devam edeceğim.
+
+Yani bir sıkıntı olmazsa ve _paşa keyfim gönül koymazsa,_ projelerimi ve ilerlemelerimi [tek bir kanban projesinde takip edebileceksiniz][my-github-project].
+
+### Abe insta vercen?
+
+> Instagram kullanmıyorum, müracaat edenlere inanmayın.
+
+İsmim biraz fazla _eşsiz_, bu yüzden kullandığınız platformlarda ismimi aratırsanız, ya ordayımdır ya da değilimdir. Ordaysam da ya kedi ya da projeler hakkında konuşuyorumdur, oradan ben olduğumu anlarsınız. :3
+
+[what-is-github-project]: https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
+[my-github-project]: https://github.com/users/Abrifq/projects/3/views/2?pane=info
+[vscode]: https://github.com/microsoft/vscode
+[move-notes]:https://github.com/Abrifq/project-ideas/milestone/1
