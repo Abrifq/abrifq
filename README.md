@@ -20,6 +20,8 @@ You can check what I do from there after I finish those.
 
 Well, this name is unique for a reason. Search this name where you usually hangout. If I'm there, I probably am talking about cats or projects. Use that to determine if that account is mine or not. :3
 
+P.S: Use `git rebase`, make people use rebase, it's soooo nicer than just merging.
+
 ---
 
 ## Kim yahu?
@@ -41,6 +43,8 @@ Yani bir sıkıntı olmazsa ve _paşa keyfim gönül koymazsa,_ projelerimi ve i
 > Instagram kullanmıyorum, müracaat edenlere inanmayın.
 
 İsmim biraz fazla _eşsiz_, bu yüzden kullandığınız platformlarda ismimi aratırsanız, ya ordayımdır ya da değilimdir. Ordaysam da ya kedi ya da projeler hakkında konuşuyorumdur, oradan ben olduğumu anlarsınız. :3
+
+Dipnot: `git rebase` candır, kullanın, kullandırttırın.
 
 [what-is-github-project]: https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
 [my-github-project]: https://github.com/users/Abrifq/projects/3/views/2?pane=info
