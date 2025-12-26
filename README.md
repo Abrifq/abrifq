@@ -1,6 +1,6 @@
 # Hello! / Selam!
 
-[I'm Abrifq. :us:](#who-am-i) / [Adım Abrifq. :tr:](#kim-yahu)
+[I'm Abrifq. :us:](#who-am-i) / [Ben Abrifq. :tr:](#kim-yahu)
 
 ## Who am I?
 
