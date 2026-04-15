@@ -1,7 +1,5 @@
 # Hello! / Selam!
 
-[I'm Abrifq. :us:](#who-am-i) / [Ben Abrifq. :tr:](#kim-yahu)
-
 ## Who am I?
 
 A part self-taught and part college-taught coder in the body of [Obelix](https://en.wikipedia.org/wiki/Obelix). :slightly_smiling_face:
@@ -22,29 +20,6 @@ Well, this name is unique for a reason. Search this name where you usually hango
 
 P.S: Use `git rebase`, make people use rebase, it's soooo nicer than just merging.
 
----
-
-## Kim yahu?
-
-Biraz alaylı biraz mektepli, [Oburiks](https://tr.wikipedia.org/wiki/Hopdediks)'in yazılımcıda vücut bulmuş haliyim. :slightly_smiling_face:
-
-### Ne yapar, ne eder?
-
-Bir yerde çalışıyorum ve boş zamanlarımda kendi projelerimde çalışıyorum. Ayrıca, sinirimi bozduğu zaman [vscode][vscode]'a bugfix gönderiyor veya rastgele projelerde denk geldiğim belgeleme hatalarını düzeltiyorum. :3
-
-Şu anda, bir [github kanban projesi][what-is-github-project]ni yönetmemi kolaylaştırıcak 2 proje üzerinde çalışıyorum.
-
-İdare edecek bir sürüm yaptığımda daha önce not aldığım projelerin [notlarını kanban'a geçirip][move-notes] oradan devam edeceğim.
-
-Yani bir sıkıntı olmazsa ve _paşa keyfim gönül koymazsa,_ projelerimi ve ilerlemelerimi [tek bir kanban projesinde takip edebileceksiniz][my-github-project].
-
-### Abe insta vercen?
-
-> Instagram kullanmıyorum, müracaat edenlere inanmayın.
-
-İsmim biraz fazla _eşsiz_, bu yüzden kullandığınız platformlarda ismimi aratırsanız, ya ordayımdır ya da değilimdir. Ordaysam da ya kedi ya da projeler hakkında konuşuyorumdur, oradan ben olduğumu anlarsınız. :3
-
-Dipnot: `git rebase` candır, kullanın, kullandırttırın.
 
 [what-is-github-project]: https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
 [my-github-project]: https://github.com/users/Abrifq/projects/3/views/2?pane=info
