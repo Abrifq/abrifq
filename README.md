@@ -1,3 +1,17 @@
+> For 24 years, \(...\) \[I've been\] throwing myself at a door that was double-locked and deadbolted and now that door is _open a crack_ and _&ndash;god damn it&ndash;_ **I'm hopeful.**
+>
+> Not optimistic, _fuck optimism_; optimism is the idea that things will get better no matter what we do, and I know **what we do matters.**
+>
+> Hope is the belief that we can improve things _&ndash;even in small ways&ndash;_ and then that \[imporvement\] will ascend \[us\] a gradient towards the world that we want and attain higher vantage points; from which new courses of action, invisible to us here in this lower elevation, will be revealed.
+>
+> _Hope is a discipline, it requires that you not give in to despair,_ so I'm here to tell you, **don't despair.**
+>
+> Even the most forceful wind is invisible, _we only see it by it's effects._
+
+&mdash; Cory Doctorow, Dec 28th 2025, [A post-American, enshittification resistant internet](https://youtube.com/watch?v=39jsstmmUUs&t=2887)
+
+---
+
 # Hello!
 
 ## Who am I?
