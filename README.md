@@ -1,4 +1,4 @@
-# Hello! / Selam!
+# Hello!
 
 ## Who am I?
 
