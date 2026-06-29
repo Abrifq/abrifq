@@ -22,7 +22,8 @@ A part self-taught and part college-taught coder in the body of [Obelix](https:/
 
 I got a day job and in my free time I work on my projects. Also, I sometimes push bug-fixes to [vscode][vscode] or help fix random projects' documentations when I find a something that irritates me. :3
 
-I'm currently working on 2 projects that will help me manage a [github kanban board][what-is-github-project] more easily.
+I'm currently "working on" 2 projects that will help me manage a [github kanban board][what-is-github-project] more easily.
+Well, thanks to ADHD, I'm mostly focused on small daily tasks I can do in my free time but I still try to visit those projects too. If I see a bug on a project somewhere while doomscrolling cat pics, consider that bug fixed. lol.
 
 After I make a MVP that's good enough for me from those projects, I will [move my past project notes][move-notes] to [my kanban board: "Side Project Backlog"][my-github-project].
 
