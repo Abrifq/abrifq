@@ -33,6 +33,12 @@ You can check what I do from there after I finish those.
 
 Well, this name is unique for a reason. Search this name where you usually hangout. If I'm there, I probably am talking about cats or projects. Use that to determine if that account is mine or not. :3
 
+<sup> 
+
+_Psst!_ I will be on [codeberg](https://codeberg.com/abrifq) for a while to do some contributions on [Hackerspace Istanbul](https://hackerspace.ist/en/) but I will come back to [github](https://github.com/abrifq) for my side projects. ..._well,_ until I say the outages and the AI policy is enough and move out to somewhere else, I don't know.
+
+</sup>
+
 P.S: Use `git rebase`, make people use rebase, it's soooo nicer than just merging.
 
 
