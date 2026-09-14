@@ -3,4 +3,12 @@ ul-indent:
   indent: 1
   start_indented: false
   start_indent: 2
+no-trailing-punctuation: false
+no-inline-html:
+  allowed_elements:
+    - summary
+    - details
+    - em
+    - b
+
 # line-length: false # Uncomment if you are drawing complex UI with <pre>
