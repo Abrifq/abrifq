@@ -34,7 +34,11 @@ the body of [Obelix](https://en.wikipedia.org/wiki/Obelix). :slightly_smiling_fa
 I believe that privacy is important _whether you have something to hide or not_
 and because of that open source apps should be supported and used.
 
+<details><summary>
+
 ### Rambling a bit more about open source
+
+</summary>
 
 Open source apps' claims can be verified by unaffiliated third parties,
 which can give us a better comfort than just "trust the corporate who sells ads,
@@ -104,7 +108,7 @@ Please note that, I am rambling about stuff, so there is no implementation,
 and there is no concrete example we could easily refer, so it is only in theory.
 As always, it will be harder in practice.
 
-</details>
+</details></details>
 
 ### What do I work on?
 
